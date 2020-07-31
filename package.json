@@ -30,7 +30,7 @@
     "@zeit/next-typescript": "1.1.1",
     "eslint": "7.5.0",
     "eslint-plugin-prettier": "3.1.4",
-    "jest": "26.2.1",
+    "jest": "26.2.2",
     "node-sass": "4.14.1",
     "prettier": "2.0.5",
     "ts-jest": "26.1.4",
